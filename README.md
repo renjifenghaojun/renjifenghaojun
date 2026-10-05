@@ -2,10 +2,10 @@
 
 # 👋 你好，我是 xuzhang
 
-### @renjifenghaojun &nbsp;·&nbsp; Android Root &nbsp;·&nbsp; 隐藏环境
+### @xuzhang-android &nbsp;·&nbsp; Android Root &nbsp;·&nbsp; 隐藏环境
 
-[![GitHub followers](https://img.shields.io/github/followers/renjifenghaojun?label=Followers&style=social)](https://github.com/renjifenghaojun)
-[![GitHub stars](https://img.shields.io/github/stars/renjifenghaojun?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/renjifenghaojun)
+[![GitHub followers](https://img.shields.io/github/followers/xuzhang-android?label=Followers&style=social)](https://github.com/xuzhang-android)
+[![GitHub stars](https://img.shields.io/github/stars/xuzhang-android?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/xuzhang-android)
 
 </div>
 
@@ -71,8 +71,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renjifenghaojun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renjifenghaojun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuzhang-android&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuzhang-android&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![Visitor](https://count.getloli.com/@renjifenghaojun?name=renjifenghaojun&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![Visitor](https://count.getloli.com/@xuzhang-android?name=xuzhang-android&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
 
