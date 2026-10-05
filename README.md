@@ -1,61 +1,87 @@
 <div align="center">
 
-# 你好，我是 renjifenghaojun 👋
+# 👋 你好，我是 碧海蓝天
 
-**致力于安卓手机解锁 root 与隐藏环境**
+### @renjifenghaojun &nbsp;·&nbsp; Android Root &nbsp;·&nbsp; 隐藏环境
 
-*Android rooting &nbsp;·&nbsp; environment hiding*
+[![GitHub followers](https://img.shields.io/github/followers/renjifenghaojun?label=Followers&style=social)](https://github.com/renjifenghaojun)
+[![GitHub stars](https://img.shields.io/github/stars/renjifenghaojun?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/renjifenghaojun)
 
 </div>
 
 ---
 
-## 🔓 专注方向
+## 🙋 关于我
 
-- **解锁与 root** — 安卓设备 bootloader 解锁与 root 方案
-- **隐藏环境** — 检测绕过、SUSFS / KernelSU 相关实践
-- **内核构建** — GKI 内核构建与定制
+- 🔓 专注 **安卓手机解锁与 root**、**隐藏环境**与底层系统
+- 🧩 关注 **GKI 内核构建** 与 KernelSU / SUSFS 生态
+- ⚙️ 使用 Kotlin · Java · C / C++ · Shell · Python · Rust · Go · TypeScript
+- 🌏 中文母语
+
+---
+
+## 🔭 当前方向
+
+- 安卓 root 与隐藏环境工具链
+- GKI 内核构建与定制
+- 设备侧底层实验
+
+---
+
+## 🤝 参与贡献
+
+### 🧱 [ABK · AnyBase Kernel](https://github.com/xingguangcuican6666/ABK)
+
+> **CI · CLI · Desktop**
+>
+> GKI 内核构建工具链。提交 3 项修复：复用工作流的输入名错误、CLI 的 XDG 配置目录解析、桌面端 LTS 组合不可达。
+
+---
+
+### 🧩 [meow-api](https://github.com/xingguangcuican6666/meow-api)
+
+> **Go · React**
+>
+> AI 模型网关（new-api 下游）。提交 3 项修复：前端查询缓存键冲突、渠道调度的冷却与熔断绕过、OAuth refresh token 归属校验顺序。
+
+---
 
 ## 🚀 Tech Stack
 
-**语言**
+<div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**平台与工具**
+</div>
 
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## 🤝 参与的项目
-
-- [**ABK** · AnyBase Kernel](https://github.com/xingguangcuican6666/ABK) — GKI 内核构建工具链
-- [**meow-api**](https://github.com/xingguangcuican6666/meow-api) — AI 模型网关（new-api 下游）
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=renjifenghaojun&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renjifenghaojun&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renjifenghaojun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renjifenghaojun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+---
 
 ## 👀 Visitors
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=renjifenghaojun&label=Visitors&color=0e75b6&style=flat-square)
+![Visitor](https://count.getloli.com/@renjifenghaojun?name=renjifenghaojun&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
