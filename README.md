@@ -85,3 +85,13 @@
 ![Visitor](https://count.getloli.com/@renjifenghaojun?name=renjifenghaojun&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
+
+---
+
+<div align="center">
+
+*"保持好奇，持续折腾。"*
+
+<sub>Stay curious. Keep tinkering.</sub>
+
+</div>
